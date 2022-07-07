@@ -7,7 +7,4 @@ apt update
 apt-cache policy docker-ce
 apt-get install docker-ce
 apt install docker-compose
-git clone https://github.com/dreammaker97/portainer
-cd portainer
-docker-compose up
 apt install tree
